@@ -1,8 +1,11 @@
 node_modules/
 .cache/
 public/
+src/pages/notebooks/
 npm-debug.log
 .eslintcache
 .gatsby-context.js
 .idea
 gatsby-starter-lumen.iml
+venv/
+*/.DS_Store
