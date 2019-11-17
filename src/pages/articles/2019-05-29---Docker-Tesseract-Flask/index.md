@@ -3,7 +3,7 @@ title: Flask + Tesseract in a Docker container
 date: "2019-05-29T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/docker-tesseract-flask/"
+path: "docker-tesseract-flask/"
 category: "Devops"
 tags:
   - "Devops"

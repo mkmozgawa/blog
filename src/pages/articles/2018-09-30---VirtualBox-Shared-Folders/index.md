@@ -3,7 +3,7 @@ title: Setting up shared folders in VirtualBox on Windows, or all the issues you
 date: "2018-09-30T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/virtualbox-shared-folders/"
+path: "virtualbox-shared-folders/"
 category: "Devops"
 tags:
   - "Devops"

@@ -3,7 +3,7 @@ title: telegren, a simple Telegram bot / joke fuel
 date: "2019-05-03T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/telegren/"
+path: "telegren/"
 category: "Python"
 tags:
   - "Python"

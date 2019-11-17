@@ -3,7 +3,7 @@ title: Removing circles, lines, and other patterns with OpenCV and Python, part 
 date: "2019-04-14T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/removing-circles-lines-patterns-part-2/"
+path: "removing-circles-lines-patterns-part-2/"
 category: "OpenCV"
 tags:
   - "Python"

@@ -3,10 +3,11 @@ title: On saving time and money with /etc/hosts
 date: "2018-12-09T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/DNS-hosts-savings/"
+path: "DNS-hosts-savings/"
 category: "Linux"
 tags:
   - "System administration"
+  - "TIL"
 description: "On saving time and money with /etc/hosts"
 ---
 

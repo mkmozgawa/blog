@@ -26,7 +26,7 @@
                 &:hover,
                 &:focus {
                     & i {
-                        color: $color-base;
+                        text-decoration: underline;
                     }
                 }
             }

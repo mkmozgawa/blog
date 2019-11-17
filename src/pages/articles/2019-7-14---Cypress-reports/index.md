@@ -3,7 +3,7 @@ title: Cypress + {mochawesome-report-generator, allure}
 date: "2019-07-14T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/cypress-reports/"
+path: "cypress-reports/"
 category: "QA"
 tags:
   - "Automation"

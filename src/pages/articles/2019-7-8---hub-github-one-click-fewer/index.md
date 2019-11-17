@@ -3,10 +3,11 @@ title: hub.github.com, or how I have to do one click fewer
 date: "2019-07-08T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/hub-github-one-click-fewer/"
+path: "hub-github-one-click-fewer/"
 category: "Devops"
 tags:
   - "Devops"
+  - "TIL"
 description: "Thanks to the Github's Hub project I have to do one click fewer when putting up new blogs posts :)"
 ---
 

@@ -10,7 +10,7 @@ module.exports = {
     title: 'Magda Mozgawa',
     subtitle:
       'Personal site; contains my incoherent ramblings, with trace amounts of code & dry jokes.',
-    copyright: 'CC BY-NC 2.5. Also: please, don\'t copy my code for homework!',
+    copyright: 'Licence: CC BY-NC 4.0. Also: please, don\'t copy my code for homework!',
     disqusShortname: '',
     menu: [
       {

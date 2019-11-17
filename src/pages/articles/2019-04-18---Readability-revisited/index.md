@@ -3,7 +3,7 @@ title: Readability, revisited
 date: "2019-04-18T10:00:00.000Z"
 layout: post
 draft: false
-path: "/posts/readability-revisited/"
+path: "readability-revisited/"
 category: "Python"
 tags:
   - "NLP"
