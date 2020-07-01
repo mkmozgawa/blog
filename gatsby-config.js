@@ -1,16 +1,16 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://magda.space'
+const url = 'https://mkmozgawa.com'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Magda Mozgawa',
+    title: 'MK Mozgawa',
     subtitle:
       'Personal site; contains my incoherent ramblings, with trace amounts of code & dry jokes.',
-    copyright: 'Licence: CC BY-NC 4.0. Also: please, don\'t copy my code for homework!',
+    copyright: 'Licence: CC BY-NC 4.0.',
     disqusShortname: '',
     menu: [
       {
@@ -23,8 +23,8 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Magda Mozgawa',
-      twitter: 'magda_space',
+      name: 'MK Mozgawa',
+      twitter: 'mkmozgawa',
       github: 'mkmozgawa',
       rss: '/rss.xml',
     },
