@@ -20,7 +20,7 @@ Him: Yes, most people do Android projects, but I've seen a few successful ones f
 
 Me: I have a Nokia 3310 refurbished and it should be possible to write apps for that, _somehow_.
 ```
-It took me a couple evenings to set things up correctly and once I got a reliable environment going, everything got much easier. (Or at least as easy as things can be when developing things for a 10-year-old platform with a heavily limited API.)
+It took me a couple evenings to set things up correctly and once I got a reliable environment going, everything got much easier. (Or at least as easy as things can be when developing things for a 10-year-old platform with a heavily limited API.) So here's a quick intro to writing your own apps for Nokia 3310 2017.
 
 ## Installation steps
 These steps work for Windows and have been tested on a Windows 10 VM. I strongly recommend following them on a virtual machine, as there's going to be a certain amount of outdated software involved.
