@@ -4,7 +4,7 @@ layout: page
 path: "/about"
 ---
 
-I'm a Quality Assurance Engineer dabbling with security and computer vision. Currently working at [Netguru](https://netguru.com/). I also play with the [Sealcode CTF team](https://ctftime.org/team/111943).
+I'm a Quality Assurance Engineer with a strong security background, dabbling in computer vision. Currently working at [Netguru](https://netguru.com/). I also play with the [Sealcode CTF team](https://ctftime.org/team/111943).
 
 I ❤︎ learning new things and sharing my knowledge with others, hence this blog. (It also serves as a reference sheet for me.)
 
